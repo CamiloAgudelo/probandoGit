@@ -1,10 +1,6 @@
 Esta es la primera linea del archivo para Git, ya luego le vamos a fusionar con una nueva rama
 Mi nombre es juan camilo Agudelo valencia
-<<<<<<< HEAD
-Naci en Quibdo-Choco en 1993 y me crie en el barrio San Judas
-=======
 Naci en Quibdo-Choco en 1993, en el hospital san francisco de asis
->>>>>>> cambiosJc
 
 
 Hemos agregado nueva info en  una nueva rama
