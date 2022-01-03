@@ -1,3 +1,7 @@
 Esta es la primera linea del archivo para Git
 Mi nombre es juan camilo Agudelo valencia
 Naci en Quibdo-Choco en 1993
+
+
+Hemos agregado nueva info en  una nueva rama
+esta rama nueva se llama cambiosJc
