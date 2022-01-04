@@ -5,3 +5,5 @@ Naci en Quibdo-Choco en 1993, en el hospital san francisco de asis
 
 Hemos agregado nueva info en  una nueva rama
 esta rama nueva se llama cambiosJc
+
+Agregamos nueva informacion luego de que crearamos la llave SSH
